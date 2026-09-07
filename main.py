@@ -11,3 +11,9 @@ def add(a,b):
 
 add(3,5)
 
+def subtract(a,b):
+    """Subtraction Function"""
+    c = a - b
+    print(c)
+
+subtract(7,2)
